@@ -1,0 +1,9 @@
+NATO Phonetic Alphabet Translator
+=================================
+---
+
+Highly useful for reading out confirmation numbers, airline PNRs, names (especially foreign names) etc.
+
+__Usage:__
+
+nato \<string\>
