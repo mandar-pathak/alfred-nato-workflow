@@ -1,9 +1,12 @@
 NATO Phonetic Alphabet Translator
 =================================
----
 
 Highly useful for reading out confirmation numbers, airline PNRs, names (especially foreign names) etc.
 
 __Usage:__
 
 nato \<string\>
+
+Screenshot:
+
+![Normal Usage](https://www.dropbox.com/s/2a41off47xk4ecg/alfred_nato.png?raw=true)
